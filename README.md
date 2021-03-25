@@ -6,7 +6,7 @@ Submitted by: **Tasnuba Sukanna**
 
 Time spent: **2** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/gem-heady-specialist)
 
 ## Required Functionality
 
@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]http://g.recordit.co/rYGKQFvobc.gif
+<img src="http://g.recordit.co/rYGKQFvobc.gif" width=1000><br>
 
 
 ## Reflection Questions
